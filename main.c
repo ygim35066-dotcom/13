@@ -4,7 +4,7 @@
 
 struct Book {
     int number;
-    char title[10];
+    char title[20];
 };
 
 void main(void) {
